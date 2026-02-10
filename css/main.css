@@ -143,7 +143,8 @@
   --color-stroke-9: var(--color-background-8);
   --color-stroke-10: #dfd1c5;
   --color-ns-yellow: #f9eb57;
-  --color-ns-green:rgba(82, 36, 139, .3);
+  --color-ns-green:#c6f56f; 
+  /* rgba(82, 36, 139, .3); */
   --color-ns-red: #ffb9a2;
   --color-ns-cyan: #83e7ee;
   --color-ns-green-light: #e8fbc6;
